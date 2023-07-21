@@ -1,0 +1,18 @@
+# Virtual environment
+venv/
+
+# IDE
+.idea/
+vscode/
+
+# Apple
+.DS_Store
+
+# Cache
+__pycache__/
+
+# Build
+*.egg-info
+*.egg
+build/
+dist/
